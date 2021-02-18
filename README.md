@@ -21,6 +21,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#about-the-project">Getting Started</a>
+      <ul>
+        <li><a href="#built-with">Prerequisites</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
